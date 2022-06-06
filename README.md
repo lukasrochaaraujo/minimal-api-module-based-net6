@@ -1,2 +1,5 @@
-# template-module-based-api-net6
+# RestAPI
 Personal template API using .NET 6
+
+## Tecnologies
+- .NET 6
